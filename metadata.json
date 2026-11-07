@@ -1,0 +1,6 @@
+{
+  "name": "碰！大夜加油站 - Boom! Night Shift Gas Station",
+  "description": "台灣深夜大夜班加油站經營模擬與動作防禦遊戲！處理95加滿、發票載具，同時撲滅點菸、擊退醉漢與飆仔！",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
